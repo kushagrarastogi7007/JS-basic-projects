@@ -35,4 +35,9 @@ start.addEventListener('click', startChangingColor)
 
 stopColor.addEventListener('click',stopChangingColor)
 
-
+// This only works when , while the key is pressed
+window.addEventListener('keydown',(e) => {
+    if(e.key === 'Enter' || e.key === ' '){
+        stopChangingColor();
+    } 
+})
