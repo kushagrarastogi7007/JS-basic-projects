@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "LD01 SEATER SOFA",
+        "price": 8000,
+        "image": "images/image2.png"
+    },
+    {
+        "id": 2,
+        "name": "LD02 SEATER SOFA",
+        "price": 12000,
+        "image": "images/image3.png"
+    },
+    {
+        "id": 3,
+        "name": "LD03 SEATER SOFA",
+        "price": 9999,
+        "image": "images/image4.png"
+    },
+    {
+        "id": 4,
+        "name": "LD04 SEATER SOFA",
+        "price": 7200,
+        "image": "images/image5.png"
+    },
+    {
+        "id": 5,
+        "name": "LD05 SEATER SOFA",
+        "price": 6400,
+        "image": "images/image6.png"
+    },
+    {
+        "id": 6,
+        "name": "LD06 SEATER SOFA",
+        "price": 11500,
+        "image": "images/image8.png"
+    },
+    {
+        "id": 7,
+        "name": "LD07 SEATER SOFA",
+        "price": 7500,
+        "image": "images/image1.png"
+    },
+    {
+        "id": 8,
+        "name": "LD08 SEATER SOFA",
+        "price": 5500,
+        "image": "images/image7.png"
+    }
+]
