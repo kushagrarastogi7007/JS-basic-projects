@@ -1,6 +1,7 @@
 ## to calculate total
 
-\*\*\*javacript // Selecting DOM elements
+***javacript 
+// Selecting DOM elements
 let iconCart = document.querySelector('.icon-cart');
 let closeCart = document.querySelector('.close');
 let body = document.querySelector('body');
@@ -180,4 +181,4 @@ addDataToHTML();
 
 initApp();
 
----
+***
